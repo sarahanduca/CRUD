@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: none;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+}
+
+input[type="sumbit"],
+button,
+[arial-label] {
+  cursor: pointer;
+}
+
+#count {
+  font-size: 0.7rem;
+}
